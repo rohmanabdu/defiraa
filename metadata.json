@@ -1,0 +1,6 @@
+{
+  "name": "M3U Extractor",
+  "description": "Aplikasi pembuat dan pengekstrak file .m3u dari link URL atau file APK siaran TV / IPTV secara otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
